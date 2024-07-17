@@ -8,6 +8,12 @@ public class 找座位 {
         System.out.println(a.getMaxUser("0010001000010000"));
     }
 
+    /**
+     * 区分前尾能插入的为0的个数/2个
+     * 中间能插入的为  0的个数+1/2-1个
+     * @param address
+     * @return
+     */
     public int getMaxUser(String address){
         if(address.length()<1) {
             return 0;
