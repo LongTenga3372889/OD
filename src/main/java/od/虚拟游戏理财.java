@@ -14,7 +14,7 @@ public class 虚拟游戏理财 {
         int[] getMoney = new int[]{10,20,30,40,50};
         a.maxMoney(getMoney,new int[]{3,4,5,6,10},new int[]{20,30,20,40,30},100,10);
         List<String> list = Arrays.asList(a.address.split("_"));
-        StringBuffer sb = new StringBuffer();
+        StringBuilder sb = new StringBuilder();
         String kong = " ";
         for (int i = 0;i<getMoney.length;i++) {
             if (i == getMoney.length-1) {
