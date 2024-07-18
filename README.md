@@ -35,5 +35,8 @@
 11、[密码输入检测](https://github.com/LongTenga3372889/OD/blob/main/src/main/java/od/第十一题/密码输入检测.java)
 主要算法:数组删除
 
-11、[转盘寿司](https://github.com/LongTenga3372889/OD/blob/main/src/main/java/od/第十二题/转盘寿司.java)
+12、[转盘寿司](https://github.com/LongTenga3372889/OD/blob/main/src/main/java/od/第十二题/转盘寿司.java)
 主要算法:数组
+
+12、[智能成绩表](https://github.com/LongTenga3372889/OD/blob/main/src/main/java/od/第十三题/智能成绩表.java)
+主要算法:jdk1.8 stream语法糖
