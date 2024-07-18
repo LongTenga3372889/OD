@@ -1,4 +1,4 @@
-package od;
+package od.第七题;
 
 import java.util.*;
 

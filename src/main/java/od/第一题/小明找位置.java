@@ -1,4 +1,4 @@
-package od;
+package od.第一题;
 
 import java.util.Scanner;
 
