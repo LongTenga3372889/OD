@@ -32,5 +32,8 @@
 10、[小华最多能得到多少可黄金](https://github.com/LongTenga3372889/OD/blob/main/src/main/java/od/第十题/小华最多能得到多少克黄金.java)
 主要算法:深度优先
 
-10、[密码输入检测](https://github.com/LongTenga3372889/OD/blob/main/src/main/java/od/第十一题/密码输入检测.java)
+11、[密码输入检测](https://github.com/LongTenga3372889/OD/blob/main/src/main/java/od/第十一题/密码输入检测.java)
 主要算法:数组删除
+
+11、[转盘寿司](https://github.com/LongTenga3372889/OD/blob/main/src/main/java/od/第十二题/转盘寿司.java)
+主要算法:数组
