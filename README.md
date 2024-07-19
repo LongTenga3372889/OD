@@ -43,3 +43,6 @@
 
 14、[多端线数据压缩](https://github.com/LongTenga3372889/OD/blob/main/src/main/java/od/第十四题/多端线数据压缩.java)
 主要算法:同位三角形、回溯法
+
+15、[分割均衡字符串](https://github.com/LongTenga3372889/OD/blob/main/src/main/java/od/第十五题/分割均衡字符串.java)
+主要算法:字符串分割计算
