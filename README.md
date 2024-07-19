@@ -38,5 +38,8 @@
 12、[转盘寿司](https://github.com/LongTenga3372889/OD/blob/main/src/main/java/od/第十二题/转盘寿司.java)
 主要算法:数组
 
-12、[智能成绩表](https://github.com/LongTenga3372889/OD/blob/main/src/main/java/od/第十三题/智能成绩表.java)
+13、[智能成绩表](https://github.com/LongTenga3372889/OD/blob/main/src/main/java/od/第十三题/智能成绩表.java)
 主要算法:jdk1.8 stream语法糖
+
+14、[多端线数据压缩](https://github.com/LongTenga3372889/OD/blob/main/src/main/java/od/第十四题/多端线数据压缩.java)
+主要算法:同位三角形、回溯法
