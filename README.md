@@ -46,3 +46,6 @@
 
 15、[分割均衡字符串](https://github.com/LongTenga3372889/OD/blob/main/src/main/java/od/第十五题/分割均衡字符串.java)
 主要算法:字符串分割计算
+
+16、[螺旋数字矩阵](https://github.com/LongTenga3372889/OD/blob/main/src/main/java/od/第十六题/螺旋数字矩阵.java)
+主要算法:数字编排
