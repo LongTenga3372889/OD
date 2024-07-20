@@ -47,8 +47,14 @@
 15、[分割均衡字符串](https://github.com/LongTenga3372889/OD/blob/main/src/main/java/od/第十五题/分割均衡字符串.java)
 主要算法:字符串分割计算
 
-17、[螺旋数字矩阵](https://github.com/LongTenga3372889/OD/blob/main/src/main/java/od/第十六题/螺旋数字矩阵.java)
+16、[螺旋数字矩阵](https://github.com/LongTenga3372889/OD/blob/main/src/main/java/od/第十六题/螺旋数字矩阵.java)
 主要算法:数字编排
 
-16、[数的分解](https://github.com/LongTenga3372889/OD/blob/main/src/main/java/od/第十七题/数的分解.java)
+17、[数的分解](https://github.com/LongTenga3372889/OD/blob/main/src/main/java/od/第十七题/数的分解.java)
 主要算法:数的分解
+
+19、[开源项目热榜](https://github.com/LongTenga3372889/OD/blob/main/src/main/java/od/第十八题/开源项目热榜.java)
+主要算法:jDK1.8 list.sort() 排序
+
+19、[冷热数据标记](https://github.com/LongTenga3372889/OD/blob/main/src/main/java/od/第十七题/数的分解.java)
+主要算法:map
